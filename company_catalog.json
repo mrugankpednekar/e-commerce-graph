@@ -1,0 +1,45 @@
+{
+  "companies": [
+    { "name": "Amazon", "sector": "general_ecommerce", "is_ecommerce": true },
+    { "name": "Walmart", "sector": "general_ecommerce", "is_ecommerce": true },
+    { "name": "Alibaba", "sector": "general_ecommerce", "is_ecommerce": true },
+    { "name": "eBay", "sector": "general_ecommerce", "is_ecommerce": true },
+    { "name": "Shopify", "sector": "general_ecommerce", "is_ecommerce": true },
+
+    { "name": "Etsy", "sector": "specialized_ecommerce", "is_ecommerce": true },
+    { "name": "Newegg", "sector": "specialized_ecommerce", "is_ecommerce": true },
+    { "name": "Wayfair", "sector": "specialized_ecommerce", "is_ecommerce": true },
+    { "name": "Chewy", "sector": "specialized_ecommerce", "is_ecommerce": true },
+    { "name": "StockX", "sector": "specialized_ecommerce", "is_ecommerce": true },
+    { "name": "Farfetch", "sector": "specialized_ecommerce", "is_ecommerce": true },
+
+    { "name": "Instacart", "sector": "aggregator", "is_ecommerce": true },
+    { "name": "DoorDash", "sector": "aggregator", "is_ecommerce": true },
+    { "name": "Uber Eats", "sector": "aggregator", "is_ecommerce": true },
+
+    { "name": "Expedia", "sector": "travel_agency", "is_ecommerce": false },
+    { "name": "Booking.com", "sector": "travel_agency", "is_ecommerce": false },
+    { "name": "Airbnb", "sector": "travel_agency", "is_ecommerce": false },
+    { "name": "Trip.com", "sector": "travel_agency", "is_ecommerce": false },
+    { "name": "Hopper", "sector": "travel_agency", "is_ecommerce": false },
+
+    { "name": "Perplexity", "sector": "ai", "is_ecommerce": false },
+    { "name": "Quora", "sector": "qa_platform", "is_ecommerce": false },
+    { "name": "Reddit", "sector": "qa_platform", "is_ecommerce": false },
+
+    { "name": "Google", "sector": "enabler", "is_ecommerce": false },
+    { "name": "Microsoft", "sector": "enabler", "is_ecommerce": false },
+    { "name": "Meta", "sector": "enabler", "is_ecommerce": false },
+    { "name": "OpenAI", "sector": "ai", "is_ecommerce": false },
+    { "name": "Anthropic", "sector": "ai", "is_ecommerce": false },
+    { "name": "Salesforce", "sector": "enabler", "is_ecommerce": false },
+    { "name": "Adobe", "sector": "enabler", "is_ecommerce": false },
+
+    { "name": "PayPal", "sector": "payments", "is_ecommerce": false },
+    { "name": "Stripe", "sector": "payments", "is_ecommerce": false },
+    { "name": "Adyen", "sector": "payments", "is_ecommerce": false },
+    { "name": "Klarna", "sector": "payments", "is_ecommerce": false },
+    { "name": "Visa", "sector": "payments", "is_ecommerce": false },
+    { "name": "Mastercard", "sector": "payments", "is_ecommerce": false }
+  ]
+}

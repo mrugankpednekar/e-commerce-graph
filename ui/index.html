@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>E-Commerce Connections</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <script src="https://unpkg.com/vis-network@9.1.9/standalone/umd/vis-network.min.js"></script>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="shell">
+      <header class="topbar">
+        <div>
+          <h1>E-Commerce Connections</h1>
+          <p id="meta">Loading...</p>
+        </div>
+        <div class="actions">
+          <div class="search-wrap">
+            <input id="node-search-input" type="text" placeholder="Find company..." />
+            <button id="node-search-btn">Find</button>
+          </div>
+          <button id="refresh-btn" class="refresh-btn">Refresh with LLM</button>
+        </div>
+      </header>
+
+      <main class="graph-card">
+        <div id="graph"></div>
+      </main>
+
+      <section class="status-card">
+        <div class="status-head">
+          <strong>Refresh Status</strong>
+          <span id="status-text">Idle</span>
+        </div>
+        <div id="insights" class="insights">Computing market insights...</div>
+        <div class="legend-title">Company Categories</div>
+        <div id="sector-legend" class="legend"></div>
+        <div class="legend-title">Relationship Types</div>
+        <div class="legend">
+          <div><span class="line acquires"></span> acquires</div>
+          <div><span class="line partners"></span> partners_with</div>
+          <div><span class="line integrates"></span> integrates_with</div>
+          <div><span class="line uses"></span> uses_services_of</div>
+          <div><span class="line powers"></span> powers</div>
+          <div><span class="line invests"></span> invests_in</div>
+        </div>
+        <pre id="status-log">No run yet.</pre>
+      </section>
+
+      <aside id="edge-details" class="edge-details hidden">
+        <div class="details-head">
+          <h2>Connection Sources</h2>
+          <button id="close-details">Close</button>
+        </div>
+        <div id="details-content"></div>
+      </aside>
+    </div>
+    <script src="./app.js"></script>
+  </body>
+</html>

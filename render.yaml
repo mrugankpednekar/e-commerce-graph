@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: ecommerce-relationship-graph
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn backend.ui_server:app --host 0.0.0.0 --port $PORT
+    autoDeploy: true
+    envVars:
+      - key: CEREBRAS_API_KEY
+        sync: false

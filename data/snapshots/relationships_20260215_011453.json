@@ -1,0 +1,52 @@
+{
+  "updated_at": "2026-02-15T06:15:40Z",
+  "relationships": [
+    {
+      "id": "E72caba7164d706",
+      "source_actor": "Walmart",
+      "target_actor": "OpenAI",
+      "relationship_type": "partners_with",
+      "announcement_date": "2025-10-22",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSTJGQ19mMlpsMWN0SlNEZW42LUxucXNaZl9Hdmx4Qi1FZEVKeGNQenNjWjg1QWstM2lIQkVISzhFRFdTTHBscTd4WmhiQnRpRU96NGpYMVBoQi12WkgzZldpRDVwd0xRQTB5LUx5czF0OHVYNTFwQmpJS1NreWxzZFpQVjctZ0poYVZPY0E1MzNrcVBwNHZRQWw3Zkc3emZyeE5FaTJLcnc0aXB1WEtwUQ?oc=5",
+      "source_title": "What Does Walmart\u2019s Partnership With OpenAI Mean For Retail - Forbes",
+      "publisher": ""
+    }
+  ],
+  "nodes": [
+    "Adobe",
+    "Adyen",
+    "Airbnb",
+    "Alibaba",
+    "Amazon",
+    "Anthropic",
+    "Booking.com",
+    "Chewy",
+    "DoorDash",
+    "Etsy",
+    "Expedia",
+    "Farfetch",
+    "Google",
+    "Hopper",
+    "Instacart",
+    "Klarna",
+    "Mastercard",
+    "Meta",
+    "Microsoft",
+    "Newegg",
+    "OpenAI",
+    "PayPal",
+    "Perplexity",
+    "Quora",
+    "Reddit",
+    "Salesforce",
+    "Shopify",
+    "StockX",
+    "Stripe",
+    "Trip.com",
+    "Uber Eats",
+    "Visa",
+    "Walmart",
+    "Wayfair",
+    "eBay"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "updated_at": "2026-02-15T06:19:55Z",
+  "relationships": [
+    {
+      "id": "E3758cd74a712d1",
+      "source_actor": "Wayfair",
+      "target_actor": "Google",
+      "relationship_type": "partners_with",
+      "announcement_date": "2026-01-13",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLXdfc09HVmFSMFZud0RyeGx2bWJ3cU5LTG91WWQ5R2FiT2xhNEpJS0dDRkpDMGJrUU1keEtpaHByNzVVWDliQkdsaC1XVnNNRm9sUFRZXzg2TnpnVjRqVUJORURBRExnNEsxbzBtQnZlYW1wbWhmN1QwV2FVdU9xZw?oc=5",
+      "source_title": "Wayfair partners with Google to boost agentic AI commerce - Chain Store Age",
+      "publisher": ""
+    },
+    {
+      "id": "Eaa6c41ffe054b7",
+      "source_actor": "PayPal",
+      "target_actor": "OpenAI",
+      "relationship_type": "partners_with",
+      "announcement_date": "2025-10-28",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNExuVk9uSGVpTFdKU1hEUnYxbDFQdTB0YXdNWTVsVXZ6N1lMYnNCOHNlTDRXZkRrSkVLSDd6dkg1bHMyWnNlM3Y0N0JtcExFS0RGYWZqb2RRc2VITnJkb3A1ZXdNbHZpSUVpeTZPeUY5Y21OV0kyNF9MVWRicEVfSm54dkI?oc=5",
+      "source_title": "PayPal stock soars on OpenAI partnership (PYPL:NASDAQ) - Seeking Alpha",
+      "publisher": ""
+    }
+  ],
+  "nodes": [
+    "Adobe",
+    "Adyen",
+    "Airbnb",
+    "Alibaba",
+    "Amazon",
+    "Anthropic",
+    "Booking.com",
+    "Chewy",
+    "DoorDash",
+    "Etsy",
+    "Expedia",
+    "Farfetch",
+    "Google",
+    "Hopper",
+    "Instacart",
+    "Klarna",
+    "Mastercard",
+    "Meta",
+    "Microsoft",
+    "Newegg",
+    "OpenAI",
+    "PayPal",
+    "Perplexity",
+    "Quora",
+    "Reddit",
+    "Salesforce",
+    "Shopify",
+    "StockX",
+    "Stripe",
+    "Trip.com",
+    "Uber Eats",
+    "Visa",
+    "Walmart",
+    "Wayfair",
+    "eBay"
+  ]
+}

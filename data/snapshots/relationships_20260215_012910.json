@@ -1,0 +1,102 @@
+{
+  "updated_at": "2026-02-15T06:31:04Z",
+  "relationships": [
+    {
+      "id": "E3b6eb8f2993f3a",
+      "source_actor": "Wayfair",
+      "target_actor": "Google",
+      "relationship_type": "partners_with",
+      "announcement_date": "2026-01-30",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOanktNUZDWDBUeDRNTGVFMHU1NFYzckxnZ1FwQlRDV3ZuTDFqOGtwS2ZuZF8xMmpUd2w4NWc3RXE0bWEyWkZNWmN6QzZnXzlsOHZ3V21VaE1BcWJsQjJjV2FKX21XeWR0YWNnNUdoWWpkUXd3TURtS2JWUlhKTXhrVVhlamVJWTRmSURPRVdOLWV4X0JMeHRVOU9hWHd1ZThDRVRSR2Y3eVp5ZVVTY0w5OGJrTjdNUGVIZjdN?oc=5",
+      "source_title": "Wayfair Google Alliance Puts AI Shopping And Valuation In Focus - simplywall.st",
+      "publisher": ""
+    },
+    {
+      "id": "Eefbdb2d34bb797",
+      "source_actor": "Google",
+      "target_actor": "Walmart",
+      "relationship_type": "partners_with",
+      "announcement_date": "2026-01-12",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNndBMFQxVFRFUnZWTVF4eWNvbXZteTFrbFRLUjEtV012ZXcxc1Q1VkRLTHBESzdQTGZPN1VXbm9fT2oybWlzbzh4Sm5fV2x1SzR3a3hnZEt6cURWZE1xdEVhWWNBYjlxVFhhVGExTHUzU3lLejBVWWdWdTVPaWhkUzlrbHVYOVdCQmdLSk85MzA0V2fSAZgBQVVfeXFMTVd1em1mT2gtMW1uQUFEQmJqRU1kbkw3LVltMXFTMmdQQUhyZ1NqdDMycUNwUVZUMHlwYTJGR3A4ZXp0SkQtUGxTSmZmUUR3WUZVU2JZWG5WTUZWWmZpYXVSbHJsMzhJdDVMaGZuaWdfdGp6S2ExVC1WNy1BM0tQM2VfSnJCa3hUUzBHcUFNWXhQYm5kRThZMWE?oc=5",
+      "source_title": "Home Depot, Walmart expand Google partnerships as agentic AI reshapes ecommerce - Digital Commerce 360",
+      "publisher": ""
+    },
+    {
+      "id": "Ed39ee1db7dc73c",
+      "source_actor": "Walmart",
+      "target_actor": "Google",
+      "relationship_type": "partners_with",
+      "announcement_date": "2026-01-12",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQVFSOXUxS0tTVDZuTlVBMHVxV09WSXMxaWRLM29zV2tQNHNfb2ZQUU1QQUhJME92anFKWnBJYWpyR1BhQ2tvYW9OQXp3SjZVOG0wUkpOZWJVaURSVVJkMWNQclpEUHg0UHZydnE1ZnVBdUVuekJLdFZXSVlvTDlyMS1UQXRIQS1TQUpjQ29yTmdHU3lzS1o4R290N2FYSWhROHpnWVVjRkg3MUtXdU4wMUJqNDVZSTlUaWFlRHhhWXI?oc=5",
+      "source_title": "Walmart and Google Partner to Make AI-Powered Shopping Routine - The National CIO Review",
+      "publisher": ""
+    },
+    {
+      "id": "Ee2a68052b17f84",
+      "source_actor": "Etsy",
+      "target_actor": "Microsoft",
+      "relationship_type": "partners_with",
+      "announcement_date": "2026-01-09",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZGVIX1lWLXJPQXpuWVY3YXJ5SVJFc0RHSERwekt4aDhUSjh6WnQ1amdLajg2ejdmdnJmc05QRTNlMXhDNjh2TUtaMWJxZ3N6T3dnZ0NmN196WmxOX1UzQ0NDTjg1NUZubU01UmM2emZCWE5DOXRqVjBBV0pJSWpnSEhkdTNFZFFwWjlvRUlMdGZiY3NEZGtlSWNyeXRJMEd5VVhxa0pCR3RKeFpua3ZzUE9keVd0ckxxRzA2cnVoYng?oc=5",
+      "source_title": "Etsy, Shopify Among Early Partners for Microsoft\u2019s Copilot Checkout - Retail TouchPoints",
+      "publisher": ""
+    },
+    {
+      "id": "E83ed6c8c7c7f82",
+      "source_actor": "Etsy",
+      "target_actor": "Shopify",
+      "relationship_type": "partners_with",
+      "announcement_date": "2026-01-09",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZGVIX1lWLXJPQXpuWVY3YXJ5SVJFc0RHSERwekt4aDhUSjh6WnQ1amdLajg2ejdmdnJmc05QRTNlMXhDNjh2TUtaMWJxZ3N6T3dnZ0NmN196WmxOX1UzQ0NDTjg1NUZubU01UmM2emZCWE5DOXRqVjBBV0pJSWpnSEhkdTNFZFFwWjlvRUlMdGZiY3NEZGtlSWNyeXRJMEd5VVhxa0pCR3RKeFpua3ZzUE9keVd0ckxxRzA2cnVoYng?oc=5",
+      "source_title": "Etsy, Shopify Among Early Partners for Microsoft\u2019s Copilot Checkout - Retail TouchPoints",
+      "publisher": ""
+    },
+    {
+      "id": "Ec8a306f456652d",
+      "source_actor": "Google",
+      "target_actor": "Anthropic",
+      "relationship_type": "partners_with",
+      "announcement_date": "2025-10-24",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUEcxMkZ2emRLdnMtY3ZrbndjM2VwUm53b1NpUnQwR2RvbXJNenM5Z1N4Q3c1TGEzaE5NeTMtd1g5MGVFeGVRa2plWlZiTnl6TTNrSjZhWHN0Vm5oVDl3TE1zcjRFX2R4WVdyWXRMQnlQdGFSZktXWEYxN1hfTEtGYTlxa3hiZWFpcGhUaEhtM0ZXQQ?oc=5",
+      "source_title": "Google, Anthropic partner as AWS faces reliability doubts - eMarketer",
+      "publisher": ""
+    }
+  ],
+  "nodes": [
+    "Adobe",
+    "Adyen",
+    "Airbnb",
+    "Alibaba",
+    "Amazon",
+    "Anthropic",
+    "Booking.com",
+    "Chewy",
+    "DoorDash",
+    "Etsy",
+    "Expedia",
+    "Farfetch",
+    "Google",
+    "Hopper",
+    "Instacart",
+    "Klarna",
+    "Mastercard",
+    "Meta",
+    "Microsoft",
+    "Newegg",
+    "OpenAI",
+    "PayPal",
+    "Perplexity",
+    "Quora",
+    "Reddit",
+    "Salesforce",
+    "Shopify",
+    "StockX",
+    "Stripe",
+    "Trip.com",
+    "Uber Eats",
+    "Visa",
+    "Walmart",
+    "Wayfair",
+    "eBay"
+  ]
+}

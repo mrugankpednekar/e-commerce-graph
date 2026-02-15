@@ -1,0 +1,52 @@
+{
+  "updated_at": "2026-02-15T06:22:30Z",
+  "relationships": [
+    {
+      "id": "E6e07997dfc9292",
+      "source_actor": "Microsoft",
+      "target_actor": "Anthropic",
+      "relationship_type": "partners_with",
+      "announcement_date": "2025-11-19",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUlExd254Q19GMWdPLWRzeEZRaTU4US1VaEV6RDJENFN3RGFhWXVpVmpqZ1ZycjFfYVVIbUJkNTEwU21uM0RDMEZHamo0ZWRGdHhUcnJrZFpMamNOc011SDJDTWJBaE83cUNJaFBNeGdfeVpMbGlqLWVBT1BjSnNLM05ObXNlaWc?oc=5",
+      "source_title": "Microsoft and NVIDIA expand partnership with Anthropic - Digital Watch Observatory",
+      "publisher": ""
+    }
+  ],
+  "nodes": [
+    "Adobe",
+    "Adyen",
+    "Airbnb",
+    "Alibaba",
+    "Amazon",
+    "Anthropic",
+    "Booking.com",
+    "Chewy",
+    "DoorDash",
+    "Etsy",
+    "Expedia",
+    "Farfetch",
+    "Google",
+    "Hopper",
+    "Instacart",
+    "Klarna",
+    "Mastercard",
+    "Meta",
+    "Microsoft",
+    "Newegg",
+    "OpenAI",
+    "PayPal",
+    "Perplexity",
+    "Quora",
+    "Reddit",
+    "Salesforce",
+    "Shopify",
+    "StockX",
+    "Stripe",
+    "Trip.com",
+    "Uber Eats",
+    "Visa",
+    "Walmart",
+    "Wayfair",
+    "eBay"
+  ]
+}
