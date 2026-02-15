@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 data/runtime/
 data/cache/
+data/latest_relationships.json
+data/latest_nodes.json
+data/search_history.jsonl

@@ -227,3 +227,32 @@ body {
   margin: 8px 0 0;
   padding-left: 18px;
 }
+
+.node-connections {
+  margin-top: 10px;
+}
+
+.node-connection {
+  border: 1px solid #e2eaf8;
+  border-radius: 8px;
+  padding: 6px 8px;
+  margin-bottom: 8px;
+  background: #fbfdff;
+}
+
+.node-connection-summary {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  cursor: pointer;
+  color: #2a3d64;
+}
+
+.source-count {
+  color: #65779b;
+  font-size: 0.78rem;
+}
+
+.node-connection-body {
+  margin-top: 6px;
+}

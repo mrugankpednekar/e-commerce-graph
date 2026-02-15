@@ -240,7 +240,27 @@ function onGraphClick(params) {
     const lines = connected
       .map((e) => {
         const other = e.source === nodeName ? e.target : e.source;
-        return `<li><strong>${esc(other)}</strong> — ${esc(e.type)}</li>`;
+        const sourceItems = e.sources
+          .map(
+            (s) => `
+            <div class="source-item">
+              <div>${esc(s.date)} • ${esc(s.publisher)}</div>
+              <strong>${esc(s.title)}</strong>
+              <div><a href="${esc(s.url)}" target="_blank" rel="noreferrer">${esc(s.url)}</a></div>
+            </div>`
+          )
+          .join("");
+        return `
+          <details class="node-connection">
+            <summary class="node-connection-summary">
+              <span><strong>${esc(other)}</strong> — ${esc(e.type.replaceAll("_", " "))}</span>
+              <span class="source-count">${e.sources.length} source${e.sources.length === 1 ? "" : "s"}</span>
+            </summary>
+            <div class="node-connection-body">
+              ${sourceItems || "<p>No sources.</p>"}
+            </div>
+          </details>
+        `;
       })
       .join("");
     els.detailsContent.innerHTML = `
@@ -248,7 +268,7 @@ function onGraphClick(params) {
       <p>Sector: ${esc(sectorLabel(meta.sector || "enabler"))}</p>
       <p>Type: ${esc(typeLabel(meta))}</p>
       <p>Connected nodes: ${connected.length}</p>
-      <ul>${lines || "<li>No direct connections yet.</li>"}</ul>
+      <div class="node-connections">${lines || "<p>No direct connections yet.</p>"}</div>
     `;
     els.edgeDetails.classList.remove("hidden");
     return;
